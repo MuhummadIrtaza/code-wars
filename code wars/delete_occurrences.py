@@ -19,4 +19,4 @@ def delete_occurrences(arr, n):
             my_dict[i] += 1
             result.append(i)
 
-    print(result)
+    return result
